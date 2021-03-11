@@ -4,5 +4,4 @@
 
 [![Mean's wakatime stats](https://github-readme-stats-mean.vercel.app/api/wakatime?username=Mean)](https://github.com/MeanZhang)
 
-<center>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></center>
-
+<p align="center">Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
