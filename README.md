@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/e44ed028-d210-4e41-ad49-eca0163ee595.svg)](https://wakatime.com/@e44ed028-d210-4e41-ad49-eca0163ee595)
+
 [![Mean's Github stats](https://api.meancoder.xyz/stat?username=MeanZhang&show_icons=true)](https://github.com/MeanZhang)
 
 [![Top Langs](https://api.meancoder.xyz/top-langs?username=MeanZhang&langs_count=6&layout=compact)](https://github.com/MeanZhang)
