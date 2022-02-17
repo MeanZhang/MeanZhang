@@ -6,4 +6,6 @@
 
 [![Mean's wakatime stats](https://api.meancoder.xyz/wakatime?username=Mean)](https://wakatime.com/@Mean)
 
-<p align="center">Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeanZhang&date_format=%5BY.%5Dn.j)](https://github.com/MeanZhang)
+
+[![Mean's github activity graph](https://activity-graph.herokuapp.com/graph?username=MeanZhang&theme=github-light)](https://github.com/MeanZhang)
